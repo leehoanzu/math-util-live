@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// da sua code roi nhq
+//xem thu th
 
 
 int main(int argc, char *argv[]) {
@@ -33,5 +34,7 @@ int main(int argc, char *argv[]) {
 	printf("There is/are %d even number(s) in this array\n", eventCount);
 	printf("The sum of odd number(s) in this array is: %d\n", sumOdd);
 	
+	printf("There is/are %d even number(s) in this array\n", eventCount);
+	printf("The sum of odd number(s) in this array is: %d\n", sumOdd);
 	return 0;
 }
